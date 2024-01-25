@@ -1,0 +1,12 @@
+Hello
+I am Tom
+How are you today?
+I'm OK, and you?
+I'm fine, thank you!
+Haha!
+This sentence will be appended.
+Python is fun!
+This sentence will be appended.
+Python is fun!
+This sentence will be appended.
+Python is fun!
